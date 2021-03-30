@@ -1,3 +1,4 @@
+# ATTENTION THIS README IS ONLY FOR DEVELOPERS PLEASE USE A DIFFERENT ONE FOR PUBLIC
 # PrismLoad
 A cryptocurrency made for online shopping
 
