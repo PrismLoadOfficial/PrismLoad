@@ -4,7 +4,7 @@ A cryptocurrency made for online shopping
 
 Here a quick start guide to build the source
 
-===[Written by Rían Ó Donnell]=====
+
 
 Get MySQL
 
