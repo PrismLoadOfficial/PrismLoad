@@ -46,7 +46,7 @@ class Block():
 
 
 class Blockchain():
-    difficulty = 3 #only change in case of error note: change to million if u are tony stark; Rian note: POGGERS
+    difficulty = 5 #only change in case of error note: change to million if u are tony stark; Rian note: POGGERS
 
 
     def __init__(self,chain=[]):
